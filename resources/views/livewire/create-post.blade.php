@@ -1,5 +1,3 @@
 <div>
-    <h1>Title: {{ $title }}</h1>
-
-    <span>Author: {{ $author }}</span>
+    <h1>Title: "{{ $title }}"</h1>
 </div>
